@@ -2,4 +2,5 @@
 upload files to multiple slack channels using the bot
 
 set your SLACK_BOT_TOKEN and CHANNEL_ID as environment variables before use
+upload files of your choice and run
 
